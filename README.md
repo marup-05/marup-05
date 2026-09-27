@@ -52,3 +52,25 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" />
 </p>
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=marup-05&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Marup's GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marup-05&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Marup's Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=marup-05&theme=tokyonight&hide_border=true"
+    alt="Marup's GitHub Streak"
+  />
+</p>
