@@ -62,7 +62,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js" />
 </p>
+<h3>🍃 Databases</h3>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+</p>
 <h3>🎨 Design & Graphics</h3>
 
 <p>
