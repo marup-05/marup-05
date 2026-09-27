@@ -8,7 +8,7 @@
 <p align="center">
   <img
     src="./marup_text_animation_v2.gif"
-    alt="Hello there, Myself Marup, Currently Learning Web Development, Aspiring Full-Stack Developer"
+    alt="Hello there, Myself Rahman Marup, Currently Learning Web Development, Aspiring Full-Stack Developer"
   />
 </p>
 <h2>👨‍💻 About Me</h2>
