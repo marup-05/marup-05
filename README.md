@@ -21,6 +21,28 @@
   <li>📚 Next, I'll explore <strong>Backend, Authentication & MongoDB</strong>.</li>
   <li>🎯 Goal: Become a professional <strong>Full-Stack Developer</strong>.</li>
 </ul>
+
+## 🔗 Follow Me on Social
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahman-marup-a1353a37b/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+      width="45"
+      height="45"
+    />
+  </a>
+
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=discord"
+      alt="Discord"
+      width="45"
+      height="45"
+    />
+  </a>
+</p>
 <h2>🛠️ Technologies & Tools</h2>
 
 <h3>💻 Languages</h3>
