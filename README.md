@@ -21,3 +21,34 @@
   <li>📚 Next, I'll explore <strong>Backend, Authentication & MongoDB</strong>.</li>
   <li>🎯 Goal: Become a professional <strong>Full-Stack Developer</strong>.</li>
 </ul>
+<h2>🛠️ Technologies & Tools</h2>
+
+<h3>💻 Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js" alt="Languages" />
+</p>
+
+<h3>🎨 CSS Frameworks & Libraries</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+</p>
+
+<h3>⚛️ JavaScript Frameworks & Libraries</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js" />
+</p>
+
+<h3>🎨 Design & Graphics</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+</p>
+
+<h3>🔧 Tools & Technologies</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" />
+</p>
