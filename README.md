@@ -67,6 +67,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platform" />
+</p>
 <h3>🎨 Design & Graphics</h3>
 
 <p>
