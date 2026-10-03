@@ -82,7 +82,10 @@
 <h3>🔧 Tools & Technologies</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" />
+  <img
+    src="https://skillicons.dev/icons?i=vscode,windows,git,github"
+    alt="VS Code, Windows, Git and GitHub"
+  />
 </p>
 <h2>📊 GitHub Statistics</h2>
 
