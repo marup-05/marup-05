@@ -68,6 +68,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 </p>
 
+### 🔗 Deployment Platform:
+
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platform" />
 </p>
