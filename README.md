@@ -76,7 +76,7 @@
 <h3>🎨 Design & Graphics</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design & Graphics" />
 </p>
 
 <h3>🔧 Tools & Technologies</h3>
