@@ -48,7 +48,7 @@
 <h3>💻 Languages</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts" alt="Languages" />
 </p>
 
 <h3>🎨 CSS Frameworks & Libraries</h3>
