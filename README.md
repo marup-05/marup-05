@@ -76,7 +76,9 @@
 ## 🧩 UI Libraries & Components
 
 <p>
-  <img src="https://skillicons.dev/icons?i=heroui,daisyui,shadcn" alt="HeroUI, daisyUI, and shadcn/ui" />
+  <img src="https://cdn.simpleicons.org/heroui/white" height="48" alt="HeroUI" />
+  <img src="https://cdn.simpleicons.org/daisyui/1AD1A5" height="48" alt="daisyUI" />
+  <img src="https://cdn.simpleicons.org/shadcnui/white" height="48" alt="shadcn/ui" />
 </p>
 <h3>🎨 Design & Graphics</h3>
 
