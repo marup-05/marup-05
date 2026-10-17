@@ -73,6 +73,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platform" />
 </p>
+## 🧩 UI Libraries & Components
+
+<p>
+  <img src="https://skillicons.dev/icons?i=heroui,daisyui,shadcn" alt="HeroUI, daisyUI, and shadcn/ui" />
+</p>
 <h3>🎨 Design & Graphics</h3>
 
 <p>
