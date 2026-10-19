@@ -62,6 +62,14 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js" />
 </p>
+
+
+<h3>⚙️ Backend Technologies</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
+</p>
+
 <h3>🍃 Databases</h3>
 
 <p>
