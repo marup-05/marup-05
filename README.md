@@ -70,11 +70,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
 </p>
 
+
 <h3>🍃 Databases</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
 </p>
+
 
 ### 🔗 Deployment Platform:
 
