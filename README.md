@@ -81,14 +81,14 @@
 <h3>🔐 Authentication & Authorization</h3>
 
 <p>
-  <img src="./icons/better-auth.svg" width="48" height="48" alt="Better Auth" />
-  <img src="./icons/jwt.svg" width="48" height="48" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/betterauth/white" height="48" alt="Better Auth" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/white" height="48" alt="JWT" />
 </p>
 
 <h3>💳 Payment Integration</h3>
 
 <p>
-  <img src="./icons/stripe.svg" width="48" height="48" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
 
