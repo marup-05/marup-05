@@ -81,14 +81,14 @@
 <h3>🔐 Authentication & Authorization</h3>
 
 <p>
-  <img src="https://cdn.simpleicons.org/betterauth/white" width="48" height="48" alt="Better Auth" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="48" height="48" alt="JWT" />
+  <img src="./icons/better-auth.svg" width="48" height="48" alt="Better Auth" />
+  <img src="./icons/jwt.svg" width="48" height="48" alt="JWT" />
 </p>
 
 <h3>💳 Payment Integration</h3>
 
 <p>
-  <img src="https://cdn.simpleicons.org/stripe/white" width="48" height="48" alt="Stripe" />
+  <img src="./icons/stripe.svg" width="48" height="48" alt="Stripe" />
 </p>
 
 
