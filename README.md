@@ -1,3 +1,4 @@
+
 <p align="center">
   <img 
     src="./banner.png" 
@@ -75,6 +76,19 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
+</p>
+
+<h3>🔐 Authentication & Authorization</h3>
+
+<p>
+  <img src="https://cdn.simpleicons.org/betterauth/white" height="48" alt="Better Auth" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/white" height="48" alt="JWT" />
+</p>
+
+<h3>💳 Payment Integration</h3>
+
+<p>
+  <img src="https://cdn.simpleicons.org/stripe/white" height="48" alt="Stripe" />
 </p>
 
 
